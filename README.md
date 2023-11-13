@@ -15,7 +15,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Kaggle](kaggle.com/) - Base de Dados
 
 
-## 🖇️ Colaborando
+## 🖇️ Acesso ao Deploy
 
 Para acessar ao deploy da page clique no link : [Clique Aqui !](https://peulearning.github.io/computational_intelligence/linear_regression.html) para acessar.
 
